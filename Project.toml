@@ -1,0 +1,9 @@
+name = "Lecture2"
+uuid = "e5eeb063-4f97-43e7-9da5-1b210f831976"
+authors = ["Alistair White <alistair@pik-potsdam.de>"]
+version = "0.1.0"
+
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
