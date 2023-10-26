@@ -1,5 +1,5 @@
 module Lecture2
 
-greet() = print("Hello World!")
+include("lorenz.jl")
 
-end # module Lecture2
+end
